@@ -1,24 +1,16 @@
 # README
+WebAPP QA.INSPECTOR
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Versão Ruby
+    2.5.6
+* Dependências do sistema
+    Rails : 5.2.0
+    Postgres : latest
+* Configuração
+    --
+* Criação de banco de dados
+    --
+* Inicialização do banco de dados
+    --
+* Como executar o conjunto de testes
+    --
